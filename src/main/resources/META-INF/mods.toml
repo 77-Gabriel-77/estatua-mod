@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="estatuapersonalizada"
+version="1.0.0"
+displayName="Estátua Personalizada"
+description='''Adiciona um item que constrói uma estátua em blocos (apenas blocos vanilla) ao clicar com o botão direito.'''
+
+[[dependencies.estatuapersonalizada]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36.2.39,37)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.estatuapersonalizada]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

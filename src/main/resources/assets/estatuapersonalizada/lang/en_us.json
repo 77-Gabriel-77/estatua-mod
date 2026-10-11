@@ -1,0 +1,6 @@
+{
+  "item.estatuapersonalizada.estatua_personalizada": "Custom Statue",
+  "message.estatuapersonalizada.sem_espaco": "Not enough free space for the statue.",
+  "message.estatuapersonalizada.altura": "The statue would exceed the world height limit.",
+  "message.estatuapersonalizada.sem_permissao": "You cannot build here."
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["HHH", "TPT", "SSS"],
+  "key": {
+    "H": { "item": "minecraft:black_wool" },
+    "T": { "item": "minecraft:white_terracotta" },
+    "P": { "item": "minecraft:pink_wool" },
+    "S": { "item": "minecraft:stone_bricks" }
+  },
+  "result": { "item": "estatuapersonalizada:estatua_personalizada", "count": 1 }
+}
